@@ -1,5 +1,9 @@
 # Software-Analisis-sintactico.
 
+Juan Carlos Ortiz
+ISIC
+6to Semestre
+
 #####Funcionamiento del codigo:#####
 
 De manera resumida lo que hace el analizador es analizar y evalúar expresiones aritméticas usando la libreria PLY. Detecta números, operadores y paréntesis, de igual manera verifica la estructura con reglas gramaticales y muestra el resultado o errores si la expresión es inválida. En este codigo se implementan diferentes operadores como if, else, while, etc, que si bien no funcionan como en un codigo, si son reconocibles por el analizador y devuelve un resultado en consecuencia.
